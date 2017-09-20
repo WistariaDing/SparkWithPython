@@ -1,5 +1,5 @@
 # SparkWithPython
-Here is some cases about Spark Python API, pyspark.
+Here are some cases about Spark Python API, pyspark.
 
 ### How to install Spark on Window 10?
 
