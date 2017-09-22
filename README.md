@@ -1,7 +1,7 @@
 # SparkWithPython
 Here are some cases about Spark Python API, pyspark.
 
-### How to install Spark on Window 10?
+### How to install Spark on Windows 10?
 
 #### 1. Install Java 8
     Download Java 8 or later version from the official website.Then set system environment variabls
